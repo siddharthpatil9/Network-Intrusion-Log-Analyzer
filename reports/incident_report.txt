@@ -1,0 +1,14 @@
+📄 INCIDENT RESPONSE REPORT
+======================================================================
+Generated At : 2026-01-30 13:21:05.451821
+======================================================================
+Incident ID   : INC-2026-001
+Attack Type   : SSH Brute Force
+Source IP     : ::1
+Target Port   : 22
+First Seen    : 2026-01-30 11:31:49
+Last Seen     : 2026-01-30 11:59:42
+Total Attempts: 24
+Severity      : HIGH
+Evidence      : SQLite logs, SSH authentication failures
+----------------------------------------------------------------------

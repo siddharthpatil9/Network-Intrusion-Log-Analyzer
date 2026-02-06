@@ -1,0 +1,9 @@
+🚨 CORRELATED INCIDENT REPORT
+============================================================
+[INCIDENT] Brute Force Detected
+Source IP : ::1
+Target Port : 22
+Attempts : 5
+Time Window : 2026-01-30 11:31:49 → 2026-01-30 11:32:04
+------------------------------------------------------------
+Total incidents identified: 1
